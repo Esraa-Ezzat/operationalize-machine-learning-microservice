@@ -1,0 +1,12 @@
+NAME           READY   STATUS    RESTARTS   AGE
+microservice   1/1     Running   0          5m33s
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 755-256-419
+
